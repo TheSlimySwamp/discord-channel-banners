@@ -1,5 +1,7 @@
 # TSS Discord Channel Banners
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > Discord [channel banners](https://www.youtube.com/watch?v=1nSqzYAGF1o) for [The Slimy Swamp](https://github.com/TheSlimySwamp)'s Discord server!
 
 ## License
